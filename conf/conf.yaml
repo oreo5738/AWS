@@ -1,0 +1,13 @@
+#日志组名
+log: ""
+#日志组的日志流名
+stream: ""
+#区域
+region: "cn-northwest-1"
+#ES索引名
+index: ""
+#ESendpoint
+esendpoint: ""
+#ES用户名密码 没有留空
+esuser: ""
+espasswd: ""

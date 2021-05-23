@@ -1,0 +1,7 @@
+log: "/aws/rds/cluster/database-1/slowquery"
+stream: "database-1-instance-1"
+region: "cn-northwest-1"
+index: "rds-slowquery-log-database-1-instance-1"
+esendpoint: "https://search-testrds-f6you3man6e2unokxb7v3mn4zq.cn-northwest-1.es.amazonaws.com.cn"
+esuser: "admin"
+espasswd: "Admin_123"
